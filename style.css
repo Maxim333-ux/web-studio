@@ -78,3 +78,78 @@ H1 {
   color: var(--background-color);
   background-color: var(--accent-color);
 }
+.title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: uppercase;
+
+  color: var(--logo-color);
+}
+.itemt {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: var(--secondary-text-color);
+}
+.title2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: var(--logo-color);
+}
+.name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: var(--logo-color);
+}
+.sur-neme {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: var(--secondary-text-color);
+}
+.navik {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 0.6);
+}
+footer {
+  background-color: var(--hero-backrount-color);
+}
+footer .logo > span {
+  color: var(--background-color);
+}
+address {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: var(--background-color);
+}
+.logi {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  color: var(--logo-color);
+}
+.lolo {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+
+  color: var(--secondary-text-color);
+}
+
+.butoncik {
+  background: var(--background-color);
+  border-radius: 4px;
+}
+.butoncik:hover,
+.butoncik:focus {
+  background-color: var(--accent-color);
+  color: var(--background-color);
+}
