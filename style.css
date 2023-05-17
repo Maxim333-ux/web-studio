@@ -117,6 +117,7 @@ H1 {
   line-height: 24px;
   color: rgba(255, 255, 255, 0.6);
 }
+/* footer */
 footer {
   background-color: var(--hero-backrount-color);
 }
@@ -129,6 +130,7 @@ address {
   line-height: 24px;
   color: var(--background-color);
 }
+/* portfolio */
 .logi {
   font-weight: 700;
   font-size: 18px;
